@@ -1,2 +1,1 @@
-# Redesigned-Discord-Octo-Robot
-Gives updates on discord.
+Kommt alle auf https://discord.gg/9ck5DrW
